@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 46d8199d38786664da149273a3e009bb
+  - enabled: 1
+    path: Assets/Scenes/Grassland.unity
+    guid: 55950c22586fcca4f99456e5c0b348cc
+  - enabled: 1
+    path: Assets/Scenes/Winter.unity
+    guid: bdfd1ba7e337340a1a5d21eca6d93d3d
+  - enabled: 1
+    path: Assets/Scenes/Desert.unity
+    guid: 0ca9bc2d0926c344c835f6f991136da3
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: a2f0af64f2e3a264699ff12301add431
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: b46ea98772cb3f8449b1e3861281004c
